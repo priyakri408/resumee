@@ -1,1 +1,1 @@
-just a demo website while learning web development
+just a demo website while learning web development.
